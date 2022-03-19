@@ -1,0 +1,9 @@
+coloymn
+T:temperature
+P=Atmoshperic at weather stationlevel
+Po=Atmospheric pressure reduced to mean sea level
+Pa=Pressure tendency: changes in atmospheric pressure over the last three hours (millimeters of mercury)
+U=Relative humidity(%)
+DD=Mean wind direction (compass points) at a height of 10-12 metres above the earth’s surface over the 10-minute period immediately preceding the observation
+Ff=Mean wind speed at a height of 10-12 metres above the earth’s surface over the 10-minute period immediately preceding the observation (meters per second)
+
